@@ -1,1 +1,3 @@
-<h1 align = "center"><b>Hi There! I'm Sagnik <div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/79dn" width="3%" height="3%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div> </h1> 
+<p>
+  <h1> Hi There!! I'm Sagnik <iframe src = "https://github.com/SagnikH/SagnikH/blob/master/79dn.gif" width="3%" height="30"></iframe>
+</p>
