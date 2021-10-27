@@ -15,6 +15,8 @@
   <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&theme=calm"/></a>
 </p>
   </br>
+  
+<h2 align = "center"> About Me 👓</h2>
 <div>
-  <img src = "https://github.com/SagnikH/SagnikH/blob/master/About-Me.png" width = "100%" height = "100% />
-<div>
+  <img src = "https://github.com/SagnikH/SagnikH/blob/master/About-Me.png"/>
+</div>
