@@ -11,6 +11,10 @@
 
 <h2 align = "center"> My Projects 💻<h2>
 <p align = "center">
-  <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&show_owner=true&theme=calm"/></a>
-  <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&show_owner=true&theme=calm"/></a>
+  <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
+  <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&theme=calm"/></a>
 </p>
+  </br>
+<div>
+  <img src = "https://github.com/SagnikH/SagnikH/blob/master/About-Me.png" width = "100%" height = "100% />
+<div>
