@@ -36,3 +36,16 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
 
  </p>
+
+<br />  
+
+---
+
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikH&theme=midnight-purple&show_icons=true">
+</p>
+  
+---
+  
+<h3 align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Map9cAA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.google.com/uc%3Fexport%3Ddownload%26id%3D166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="gif" width="30" height="30" />    Thanks for dropping by, hope you have a nice day <img src="https://github.com/SagnikH/SagnikH/blob/master/W1ph.gif" alt="gif" width="60" height="60"> <h3>
