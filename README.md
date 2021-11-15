@@ -7,24 +7,15 @@
   <a href = "https://twitter.com/light_eliee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
-<p align = "center"> Enthusiastic Software Developer, currently a Junior year student. Exploring ideas and letting passion take it's course. </p> </br>
-<div align="center">
-<img src="https://github.com/SagnikH/SagnikH/blob/master/dev.svg" width="50%" height="50%" />
-</div>
-<br />
+<p align="center">Enthusiastic Software Developer, currently a Junior year student. Exploring ideas and letting passion take it's course</p>
+
 <h2 align = "center"> My Projects 💻<h2>
 <p align = "center">
   <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
   <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&theme=calm"/></a>
 </p>
-  </br>
-  
-<h2 align = "center"> About Me 👓</h2>
-<div>
-  <img src = "https://github.com/SagnikH/SagnikH/blob/master/About-Me.png"/>
-</div>
  
-</br>
+
 <h2 align="center">Language and Tools<h4>
  <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -37,18 +28,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-
  </p>
 
-<br />  
-
 ---
 
-<br />
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikH&theme=midnight-purple&show_icons=true">
+  <img src="https://github.com/SagnikH/SagnikH/blob/master/dev.svg" style="width:35%;" align="right"/>
 </p>
   
----
-  
+--- 
 <h3 align="center"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Map9cAA0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://docs.google.com/uc%3Fexport%3Ddownload%26id%3D166Ecq6uBl61U14OUlkHOHIBv2ArKoumJ" alt="gif" width="30" height="30" />    Thanks for dropping by, hope you have a nice day <img src="https://github.com/SagnikH/SagnikH/blob/master/W1ph.gif" alt="gif" width="60" height="60"> <h3>
