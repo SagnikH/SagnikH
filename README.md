@@ -8,7 +8,10 @@
 </p>
 
 <p align = "center"> Enthusiastic Software Developer, currently a Junior year student. Exploring ideas and letting passion take it's course. </p> </br>
-
+<div align="center">
+<img src="https://github.com/SagnikH/SagnikH/blob/master/dev.svg" width="50%" height="50%" />
+</div>
+<br />
 <h2 align = "center"> My Projects 💻<h2>
 <p align = "center">
   <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
