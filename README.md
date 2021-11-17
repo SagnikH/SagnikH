@@ -9,6 +9,17 @@
 
 <p align="center">Enthusiastic Software Developer, currently a Junior year student. Exploring ideas and letting passion take it's course</p>
 
+<img src="https://github.com/SagnikH/SagnikH/blob/master/dev.svg" style="width:30%;" align="right"/>
+
+### 💻 About Me
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Information Technology at Jadavpur University
+- ✍️ &nbsp; I'm a Full Stack Developer.
+- 🧠 &nbsp; Have a keen interest in Blockchain and decentralized project ideas.
+- ✉️ &nbsp; Feel free to reach out to me here: <sagnikh2@gmail.com>;
+<br/>
+
 <h2 align = "center"> My Projects 💻<h2>
 <p align = "center">
   <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
@@ -32,9 +43,8 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagnikH&theme=midnight-purple&show_icons=true">
-  <img src="https://github.com/SagnikH/SagnikH/blob/master/dev.svg" style="width:35%;" align="right"/>
 </p>
   
 --- 
