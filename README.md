@@ -24,7 +24,7 @@
 <p align = "center">
   <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
   <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&theme=calm"/></a>
-  <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=jwt-auth-rest-api&theme=calm"/></a>
+  <a href = "https://github.com/SagnikH/jwt-auth-rest-api"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=jwt-auth-rest-api&theme=calm"/></a>
 </p>
  
 
