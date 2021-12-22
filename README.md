@@ -17,7 +17,7 @@
 - 🎓 &nbsp; Studying Information Technology at Jadavpur University
 - ✍️ &nbsp; I'm a Full Stack Developer.
 - 🧠 &nbsp; Have a keen interest in Blockchain and decentralized project ideas.
-- ✉️ &nbsp; Feel free to reach out to me here: <sagnikh2@gmail.com>;
+- ✉️ &nbsp; Feel free to reach out to me here: <sagnikh74@gmail.com>;
 <br/>
 
 <h2 align = "center"> My Projects 💻<h2>
