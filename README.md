@@ -22,11 +22,14 @@
 
 <h2 align = "center"> My Projects 💻<h2>
 <p align = "center">
+  <img width = "400" height = "300" src = "https://github.com/SagnikH/Peer-Programming/blob/master/default.svg" />
   <img width = "400" height = "300" src = "https://github.com/SagnikH/SagnikH/blob/master/codeBin.svg" />
-  <img width = "400" height = "300" src = "https://github.com/SagnikH/SagnikH/blob/master/memo.svg" />
+  <a href = "https://github.com/SagnikH/Peer-Programming"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=Peer-Programming&theme=calm"/></a>
   <a href = "https://github.com/SagnikH/dip_bin"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=dip_bin&theme=calm"/></a>
+  <img width = "400" height = "300" src = "https://github.com/SagnikH/SagnikH/blob/master/memo.svg" />
+  <img width = "400" height = "300" src = "https://github.com/SagnikH/fundme/blob/main/default.svg" />
   <a href = "https://github.com/SagnikH/ReLink"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=ReLink&theme=calm"/></a>
-  <a href = "https://github.com/SagnikH/jwt-auth-rest-api"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=jwt-auth-rest-api&theme=calm"/></a>
+  <a href = "https://github.com/SagnikH/fundme"><img src = "https://github-readme-stats.vercel.app/api/pin/?username=SagnikH&repo=fundme&theme=calm"/></a>
 </p>
  
 
@@ -39,6 +42,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="40" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
